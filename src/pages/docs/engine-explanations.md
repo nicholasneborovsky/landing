@@ -10,3 +10,4 @@ They are as follows:
 * IW5 - Modern Warfare 3
 
 They are based on who developed the game and which game number it was for that studio. T4 was Treyarch's 4th Call Of Duty game and IW5 was Infinity Ward's fifth, for example.  
+We will be adding Black Ops Cold War in late 2022
